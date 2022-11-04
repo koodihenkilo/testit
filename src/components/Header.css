@@ -1,0 +1,28 @@
+.header {
+    align-items: center;
+    color: red;
+    text-align: center;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    column-gap: 5px;
+    display: flex;
+
+  
+  
+
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+button {
+    justify-content: flex-end;
+    height: 50%;
+   
+}
