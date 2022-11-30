@@ -4,13 +4,15 @@ function Header() {
         
       <div className="header">
         <div className='wrapper'>
+      
         <ul>
             <li>Home</li>
             <li>About</li>
             <li>Contact</li>
 
         </ul>
-        </div>
+        
+      </div>
         <button>Menu</button>
        
 
